@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "adresse": "Libertatii, 41"
+    },
+    {
+        "id": 2,
+        "name": "Luca",
+        "adresse": "Floresti"
+    },
+    {
+        "id": 6,
+        "name": "Cosmin",
+        "adresse": "Luna"
+    },
+    {
+        "id": 7,
+        "name": "Loti",
+        "adresse": "Sighisoara"
+    },
+    {
+        "id": 8,
+        "name": "Andrew",
+        "adresse": "Brasov"
+    },
+    {
+        "id": 9,
+        "name": "Deiu",
+        "adresse": "Bucales"
+    },
+    {
+        "id": 10,
+        "name": "Doru",
+        "adresse": "Medias"
+    },
+    {
+        "id": 11,
+        "name": "Rex",
+        "adresse": "dasnj"
+    },
+    {
+        "id": 12,
+        "name": "Wguek",
+        "adresse": "sadj"
+    },
+    {
+        "id": 13,
+        "name": "sadk",
+        "adresse": "khsad"
+    },
+    {
+        "id": 14,
+        "name": "sbdha",
+        "adresse": "hdas"
+    },
+    {
+        "id": 15,
+        "name": "sidh",
+        "adresse": "sadui"
+    },
+    {
+        "id": 16,
+        "name": "ashd",
+        "adresse": "asdu"
+    },
+    {
+        "id": 17,
+        "name": "afh",
+        "adresse": "sad"
+    },
+    {
+        "id": 18,
+        "name": "asid",
+        "adresse": "sgd"
+    },
+    {
+        "id": 80,
+        "name": "ghe",
+        "adresse": "ehg"
+    },
+    {
+        "id": 98,
+        "name": "sajnd",
+        "adresse": "lsadj"
+    },
+    {
+        "id": 99,
+        "name": "asd",
+        "adresse": "asd"
+    },
+    {
+        "id": 100,
+        "name": "dsa",
+        "adresse": "dsa"
+    }
+]

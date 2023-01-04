@@ -1,0 +1,44 @@
+[
+    {
+        "id": 95,
+        "kunden_ids": [
+            17,
+            80
+        ],
+        "gerichte_ids": [
+            20
+        ],
+        "getranke_ids": [
+            29,
+            89
+        ],
+        "total_cost": 80.0
+    },
+    {
+        "id": 97,
+        "kunden_ids": [
+            1
+        ],
+        "gerichte_ids": [
+            20
+        ],
+        "getranke_ids": [
+            29
+        ],
+        "total_cost": 61.1
+    },
+    {
+        "id": 101,
+        "kunden_ids": [
+            18,
+            100
+        ],
+        "gerichte_ids": [
+            20
+        ],
+        "getranke_ids": [
+            29
+        ],
+        "total_cost": 61.1
+    }
+]
