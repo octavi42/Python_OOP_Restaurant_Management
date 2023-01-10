@@ -1,4 +1,3 @@
-from modelle.gericht import Gericht
 from modelle.gekochterGericht import GekochterGericht
 from modelle.getrank import Getrank
 from modelle.kunde import Kunde
@@ -37,8 +36,8 @@ class Controller:
         self.kunde_repo.save(load)
         return kunde
 
-    def create_bestellung(self, kunden_id, gerichte_ids, getranke_ids):
-        bestellung = Bestellung(kunden_id, gerichte_ids, getranke_ids)
+    def create_bestellung(self, kunden_ids, gerichte_ids, getranke_ids):
+        bestellung = Bestellung(kunden_ids, gerichte_ids, getranke_ids)
         load = self.bestellung_repo.load()
         load.append(bestellung)
         self.bestellung_repo.save(load)
